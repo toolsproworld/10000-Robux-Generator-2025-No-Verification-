@@ -1,4 +1,4 @@
-[![Free Robux Generator 2025](https://i.imgur.com/mbYOg3o.png)](https://redeemcodepro.com/new-offers)
+[![Free Robux Generator 2025](https://i.imgur.com/mbYOg3o.png)](https://robux.redeemcodepro.com)
 # 🔒 Private Robux Generator 2025 (V3 API)  
 **⚠️ ALERT:** Public generators are banned. Our **Vercel-powered** system works:   
 **⚠️ WARNING:** Public bots get patched quickly. We moved to a private server:  
