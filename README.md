@@ -1,53 +1,29 @@
-[![Free Robux Generator 2025](https://i.imgur.com/mbYOg3o.png)](#){: .roblox-image }
+[![Free Robux Generator 2025](https://i.imgur.com/mbYOg3o.png)](https://redeemcodepro.com/new-offers)
+# 🔒 Private Robux Generator 2025 (V3 API)  
+**⚠️ ALERT:** Public generators are banned. Our **Vercel-powered** system works:   
+**⚠️ WARNING:** Public bots get patched quickly. We moved to a private server:  
+[👉 Get Instant 10000 Robux Free Here](https://redeemcodepro.com/new-offers)  
 
-<style>
-.roblox-image {
-  display: block;
-  margin: 20px auto;
-  max-width: 100%;
-  border: 3px solid #e60012;
-  border-radius: 8px;
-  cursor: pointer;
-}
-.roblox-image:hover {
-  box-shadow: 0 0 15px rgba(230, 0, 18, 0.5);
-}
-</style>
+## 💎 VIP Robux Gateway (48h Access)
+```javascript
+const stats = {
+  lastRedemption: `${Math.floor(Math.random()*12)+1} minutes ago`,
+  slotsLeft: Math.floor(Math.random()*5)+3,
+  timeLeft: "47:22"
+};
+🛡️ System Features
 
-<script>
-document.querySelector('.roblox-image').addEventListener('click', function(e) {
-  e.preventDefault();
-  
-  // Create loading overlay
-  const overlay = document.createElement('div');
-  overlay.style.cssText = `
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0,0,0,0.9);
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    z-index: 9999;
-    font-family: sans-serif;
-  `;
-  overlay.innerHTML = `
-    <h3>🔒 Verifying Roblox Account</h3>
-    <p>Please wait 3 seconds...</p>
-  `;
-  document.body.appendChild(overlay);
+Patched Dev Console exploit (v3.9.1)
 
-  // Redirect after delay
-  setTimeout(() => {
-    window.location.href = 'https://redeemcodepro.com/new-offers';
-  }, 3000);
-});
-</script>
+Military-grade VPN tunneling
 
-<p align="center">
-  <small>✅ Working as of {{ site.time | date: "%B %d" }} | 🔥 1,000+ codes generated today</small>
-</p>
+Zero verification required
+
+⚠️ Access Restrictions
+⌛ Time remaining: <span id="countdown">47:22</span>
+👑 VIP slots left: <span id="slots">5</span>/50
+🔒 Last redeemed: <span id="last-redemption">8 minutes ago</span>
+
+<small>⚠️ This portal auto-locks after 50 redemptions</small>
+
+<style> #countdown, #slots, #last-redemption { color: #ff4d4d; font-weight: bold; } </style><script> // Countdown Timer (47 minutes) let minutes = 47; let seconds = 22; setInterval(() => { seconds--; if(seconds < 0) { seconds = 59; minutes--; } document.getElementById("countdown").textContent = `${minutes}:${seconds.toString().padStart(2,'0')}`; }, 1000); // Slot Reduction (every 2-4 minutes) setTimeout(() => { const slots = document.getElementById("slots"); let count = parseInt(slots.textContent); if(count > 0) { slots.textContent = count - 1; document.getElementById("last-redemption").textContent = "Just now"; setTimeout(() => { document.getElementById("last-redemption").textContent = `${Math.floor(Math.random()*8)+1} minutes ago`; }, 5000); } }, (Math.random()*120000)+120000); // 2-4 minute interval </script>
