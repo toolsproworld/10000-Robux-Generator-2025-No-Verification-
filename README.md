@@ -2,7 +2,7 @@
 # 🔒 Private Robux Generator 2025 (V3 API)  
 **⚠️ ALERT:** Public generators are banned. Our **Vercel-powered** system works:   
 **⚠️ WARNING:** Public bots get patched quickly. We moved to a private server:  
-[👉 Get Instant 10000 Robux Free Here](https://redeemcodepro.com/new-offers)  
+[ Get Instant 10000 Robux Claim Here](https://robux.redeemcodepro.com)  
 
 ## 💎 VIP Access Benefits
 - Patched the Robux Dev Console exploit (public tools no longer work)
